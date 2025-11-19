@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import WhyChoose from "./components/Whychoose";
+import WhyChoose from "./components/WhyChoose";
 import HowItWorks from "./components/HowItWorks";
 import Reviews from "./components/Reviews";
 import DemoSection from "./components/DemoSection";
