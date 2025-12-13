@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 import Contact from './components/Contact';
 import Login from './components/Login';
 import Signup from './components/Signup';
+import ForgotPassword from './components/ForgetPassword';
 import AdminDashboard from './adminDashboard/AdminDashboard';
 import AdminHome from './adminDashboard/AdminHome'
 import AllUsers from './adminDashboard/AllUsers'
@@ -52,6 +53,7 @@ const App = () => {
       <Route path="/" element={<Navbar/>}/>
       <Route path="/login" element={<Login/>}/>
       <Route path="/signup" element={<Signup/>}/>
+      <Route path="/forgot" element={<ForgotPassword/>}/> 
     
 
       {/* Admin */}

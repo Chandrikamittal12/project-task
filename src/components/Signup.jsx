@@ -175,7 +175,6 @@ function Signup() {
               />
            </div>
            </div>
-
             {/* Password */}
             <label className="font-medium text-purple-600">Password Setup *</label>
             <div className="flex gap-4">
