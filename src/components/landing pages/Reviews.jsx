@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../../assets/User.png";
+import img from "../../assets/user.png";
 
 const Reviews = () => {
   return (
