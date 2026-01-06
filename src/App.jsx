@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 //landing Page import
 import Navbar from "./components/landing pages/Navbar";
 import Hero from "./components/landing pages/Hero";
-import WhyChoose from "./components/landing pages/WhyChoose";
+import WhyChoose from "./components/landing pages/WhyChoose.jsx";
 import HowItWorks from "./components/landing pages/HowItWorks.jsx";
 import Reviews from "./components/landing pages/Reviews.jsx";
 import DemoSection from "./components/landing pages/DemoSection";
